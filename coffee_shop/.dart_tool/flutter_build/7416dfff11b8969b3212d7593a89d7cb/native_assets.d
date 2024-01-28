@@ -1,0 +1,1 @@
+ /Users/alexisretardo/workspace/coffeeShop/coffee_shop/.dart_tool/flutter_build/7416dfff11b8969b3212d7593a89d7cb/native_assets.yaml: 
